@@ -31,6 +31,7 @@ A Colab-ready notebook for fine-tuning [google/gemma-3-1b-it](https://huggingfac
 |-----------|---------|-------------|
 | `model_name` | `unsloth/gemma-3-1b-it` | Unsloth-optimized Gemma 3 1B |
 | `max_seq_length` | 2048 | Max tokens per example |
+| `load_in_4bit` | False | Set True for QLoRA (4-bit quantized, less VRAM) |
 | `lora_r` | 32 | LoRA rank |
 | `lora_alpha` | 32 | LoRA scaling factor |
 | `learning_rate` | 3e-5 | Learning rate |

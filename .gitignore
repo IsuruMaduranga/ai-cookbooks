@@ -34,5 +34,8 @@ Thumbs.db
 *.safetensors
 *.ckpt
 
+# Claude Code
+CLAUDE.md
+
 # Temp / working files
 temp/
