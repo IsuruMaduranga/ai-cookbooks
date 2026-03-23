@@ -10,6 +10,7 @@ A collection of ready-to-use Colab notebooks for fine-tuning and experimenting w
 | [Gemma 3 1B Fine-Tune with LoRA](gemma3-1b-finetune-lora/) | Fine-tune Gemma 3 1B-IT for any instruction-following task using LoRA & Unsloth |
 | [Gemma 3 4B Fine-Tune with LoRA](gemma3-4b-finetune-lora/) | Fine-tune Gemma 3 4B-IT (vision layers frozen) with QLoRA & Unsloth |
 | [XLM-R Text Classifier](xlmr-text-classifier/) | Fine-tune XLM-RoBERTa for text classification (single-text or text-pair, 100+ languages) |
+| [Sentence Transformer Fine-Tune](sentence-transformer-finetune/) | Fine-tune any sentence-transformers model on text pairs with contrastive learning (3-notebook pipeline) |
 
 ## Getting Started
 
