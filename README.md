@@ -7,6 +7,7 @@ A collection of ready-to-use Colab notebooks for fine-tuning and experimenting w
 | Notebook | Description |
 |----------|-------------|
 | [NLLB-600M Fine-Tune with LoRA](nllb-600m-finetune-lora/) | Fine-tune NLLB-200-distilled-600M for any translation task using LoRA & Flash Attention |
+| [Gemma 3 1B Fine-Tune with LoRA](gemma3-1b-finetune-lora/) | Fine-tune Gemma 3 1B-IT for any instruction-following task using LoRA & Unsloth |
 
 ## Getting Started
 
